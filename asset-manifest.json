@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-memo-test/static/js/main.279abd68.chunk.js",
+    "main.js.map": "/react-memo-test/static/js/main.279abd68.chunk.js.map",
+    "runtime-main.js": "/react-memo-test/static/js/runtime-main.1639b3e4.js",
+    "runtime-main.js.map": "/react-memo-test/static/js/runtime-main.1639b3e4.js.map",
+    "static/js/2.fad3d9ae.chunk.js": "/react-memo-test/static/js/2.fad3d9ae.chunk.js",
+    "static/js/2.fad3d9ae.chunk.js.map": "/react-memo-test/static/js/2.fad3d9ae.chunk.js.map",
+    "index.html": "/react-memo-test/index.html",
+    "precache-manifest.83e0d2fb5af1f00289f540f5cdb56b2f.js": "/react-memo-test/precache-manifest.83e0d2fb5af1f00289f540f5cdb56b2f.js",
+    "service-worker.js": "/react-memo-test/service-worker.js",
+    "static/js/2.fad3d9ae.chunk.js.LICENSE": "/react-memo-test/static/js/2.fad3d9ae.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1639b3e4.js",
+    "static/js/2.fad3d9ae.chunk.js",
+    "static/js/main.279abd68.chunk.js"
+  ]
+}
